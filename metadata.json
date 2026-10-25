@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Informasi Tata Tertib & Kedisiplinan Siswa (SiTatib)",
+  "description": "Aplikasi manajemen tata tertib peserta didik, pencatatan pelanggaran, sistem poin disiplin, cetak surat peringatan, dan integrasi Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
